@@ -84,7 +84,6 @@ public class FamilyTree
             
             
             
-            return ancestors;
         }
         
         
